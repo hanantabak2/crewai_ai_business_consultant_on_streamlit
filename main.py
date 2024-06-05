@@ -69,7 +69,7 @@ writer = Agent(
               "You base your design on the work of "
               "the Business Consultant, who provides an outline "
               "and relevant context about the : {topic}. "
-              "and also the data analyst who will provide you with necessary analysis and charts about the : {topic} "
+              "and also the data analyst who will provide you with necessary analysis about the : {topic} "
               "You follow the main objectives and "
               "direction of the outline, "
               "as provided by the Business Consultant. "
@@ -153,7 +153,7 @@ analyse = Task(
  ),
     expected_output="A clear comprehensive data analysis "
         "providing insights and statistics with numbers to the Business Writer ",
-    agent=writer
+    agent=analyst
 )
 
 
