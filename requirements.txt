@@ -1,0 +1,7 @@
+streamlit
+crewai
+langchain_cohere
+chromadb
+pysqlite3-binary
+setuptools
+wheel
