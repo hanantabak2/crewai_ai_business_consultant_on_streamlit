@@ -1,4 +1,4 @@
-**Multi-Agent AI Business Consultant**
+<h1>Multi-Agent AI Business Consultant</h1>
 
 Welcome to the Multi-Agent AI Business Consultant! This project leverages the power of multi-agent systems to provide robust business consulting solutions using CrewaI and Streamlit.
 
