@@ -31,37 +31,26 @@ To get started with the Multi-Agent AI Business Consultant, follow these steps:
 
 **3.1. Clone the Repository:**
 
-bash
-
-Copy code
 
 git clone <https://github.com/hanantabak2/crewai_ai_business_consultant_on_streamlit.git>
 
-cd crewai_ai_business_consultant_on_streamlit
+
 
 **3.2. Install Dependencies:**
 
-bash
-
-Copy code
 
 pip install -r requirements.txt
 
 **3.3. Run the Application:**
 
-bash
-
-Copy code
 
 streamlit run app.py
 
 **4. Usage**
 
-**4.1. Start the Application:** Run the following command:
+**4.1. Start the Application:** 
 
-bash
-
-Copy code
+Run the following command:
 
 streamlit run app.py
 
